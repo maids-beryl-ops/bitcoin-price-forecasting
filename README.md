@@ -9,6 +9,8 @@ comparing which handles time series data better.
 ## What files are included?
 - bitcoin_forecasting.ipynb — main notebook with all code
 - Bitcoin_Daily.csv — daily Bitcoin price dataset (2019–2023)
+- Bitcoin_Forecasting_Presentation.pptx
+
 
 ## What did I learn?
 LSTM outperformed MLP because it can process data in sequence, while 
