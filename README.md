@@ -17,7 +17,3 @@ chronological train/test splitting is for time-series problems.
 
 ## Author
 Beryl Abi Ouma
-
-One reminder from the sheet, worth repeating: don't upload API keys, passwords, or personal info — your files here are fine (just code + public price data), so you're safe.
-
-Want me to help you write the actual README content as a ready-to-paste block, or tweak anything above?
